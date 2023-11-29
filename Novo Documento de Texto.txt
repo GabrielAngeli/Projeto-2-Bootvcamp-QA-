@@ -1,0 +1,7 @@
+Dados para banco de dados do cliente em que fiquem salvos para facilitar o acesso do mesmo (compras com base em suas pesquisas no site, sugestões de compras e etc)
+
+UX mobile para usuários mobiles
+
+Criação de api com front end
+
+Critérios de aceite
